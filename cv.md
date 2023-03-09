@@ -13,7 +13,8 @@
 ##### About me
 
 *I'm Uladz. Originally from Belarus, but now residing in Vilnius. Currently, I'm in search of myself, my passion and my future career. For some time I wanted to try going for developer career - so here I am. :)*
-***
+
+****
 
 ##### Education
 
