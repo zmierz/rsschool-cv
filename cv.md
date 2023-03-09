@@ -14,3 +14,9 @@
 - Degree: Bachelor of Social Science
 - *2019 - 2024*
 ***
+##### Languages:
+- *Belarusian - Native*
+- *Russian - Native*
+- *English - B2*
+- *Ukrainian - (can undestand, can't speak :))*
+***
