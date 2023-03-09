@@ -1,22 +1,33 @@
-****
-### Uladzislau Patapenka
+# Uladzislau Patapenka
+
 *Beginner Frontend Developer*
 ****
-##### Contact information: 
+
+##### Contact information
+
 - email: uladzislau.patapenka@gmail.com
 - telegram: @uladzuladz
-***
-##### About me:
+
+****
+
+##### About me
+
 *I'm Uladz. Originally from Belarus, but now residing in Vilnius. Currently, I'm in search of myself, my passion and my future career. For some time I wanted to try going for developer career - so here I am. :)*
 ***
-##### Education:
+
+##### Education
+
 - School: **European Humanitarian University**
 - Degree: Bachelor of Social Science
 - *2019 - 2024*
-***
-##### Languages:
+
+****
+
+##### Languages
+
 - *Belarusian - Native*
 - *Russian - Native*
 - *English - B2*
 - *Ukrainian - (can undestand, can't speak :))*
-***
+
+****
